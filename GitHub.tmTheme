@@ -10,7 +10,7 @@
           <key>settings</key>
           <dict>
               <key>background</key>
-              <string>#FFFFFF</string>
+              <string>#0d1117</string>
               <key>caret</key>
               <string>#333333</string>
               <key>foreground</key>
